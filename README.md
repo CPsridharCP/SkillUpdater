@@ -4,4 +4,4 @@ MistySpecific: As many end points used in a skill have changed, I created a scri
 ## To use:
 Place the update.py in the directory that contains the .js files and run thee script. It will create the updated_skill.js files. 
 
-Feel free to update the script to scan multiple direcetories or take arguments 
+Feel free to update the script to scan multiple direcetories or take arguments , auto rename the files created !! Lots more to do to make much easier.
