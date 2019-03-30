@@ -51,6 +51,8 @@ changes = {
     "MessageStreamWrite(" : "WriteSerial(",
     "HdtDrive" : "DriveHeading(",
     "\"StringMessage\"" : "\"SerialMessage\"",
+    "\"FaceDetection\"" : "\"FaceRecognition\"",
+    "\"ComputerVision\"" : "\"FaceRecognition\"",
     "_StringMessage(" : "_SerialMessage("
 }
 
