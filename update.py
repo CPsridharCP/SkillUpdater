@@ -49,7 +49,9 @@ changes = {
     "GetdeviceInformation(" : "GetDeviceInformation(",
     "GetWebsocketHelp(" : "GetWebsocketNames(",
     "MessageStreamWrite(" : "WriteSerial(",
-    "HdtDrive" : "DriveHeading"
+    "HdtDrive" : "DriveHeading(",
+    "\"StringMessage\"" : "\"SerialMessage\"",
+    "_StringMessage(" : "_SerialMessage("
 }
 
 # print(changes)
